@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "html.format.indentHandlebars": true,
+    "html.format.indentInnerHtml": true,
+    "eslint.format.enable": true
+}
